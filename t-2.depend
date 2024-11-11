@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731320669 source:d:\daima\t-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
